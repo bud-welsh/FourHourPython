@@ -1,5 +1,7 @@
+characterName = "John"
+characterAge = "35"
 
-print("There once was a man named, John,")
-print("and he was 35 years old.")
-print("He really liked the name John,")
-print("but he didn't like being 35.")
+print("There once was a man named " + characterName + ", ")
+print("and he was " + characterAge + " years old.")
+print("He really liked the name " + characterName + ", ")
+print("but he didn't like being " + characterAge + ".")
