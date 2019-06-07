@@ -10,3 +10,5 @@ print(phrase + "\nThis string comes from concatenation.")
 
 print(phrase.lower()) # Make phrase all lower case letters
 print(phrase.upper()) # Make phrase all upper case letters
+
+print(len(phrase)) # checking the length of the phrase
