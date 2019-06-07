@@ -18,3 +18,5 @@ print(phrase[3]) # printing the fourth letter of the phrase
 
 print(phrase.index("m")) # find the index of the letter m in the phrase
 print(phrase.index("the")) # find the starting index of the word the in the phrase
+
+print(phrase.replace("comes", "is")) # replace one part of the string with a new string
