@@ -14,3 +14,12 @@ while i <= var_number:
   i += 1
 print("The sum of the numbers from 1 to the number you gave me is: ")
 print(sum_number)
+
+multi_number = 0
+i = 0
+while i <= var_number:
+  if i % 3 == 0 or i % 5 == 0:
+    multi_number = multi_number + i
+  i += 1
+print("The sum of the numbers from 1 to the number you gave me that are multiples of 3 and 5 is:")
+print(multi_number)
