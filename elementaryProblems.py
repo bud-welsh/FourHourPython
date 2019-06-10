@@ -23,3 +23,9 @@ while i <= var_number:
   i += 1
 print("The sum of the numbers from 1 to the number you gave me that are multiples of 3 and 5 is:")
 print(multi_number)
+
+a = input("Give me a number: ")
+b = input("Give me another number: ")
+a_b_sum = a + b
+print("The sum of those two numbers is:")
+print(a_b_sum)
