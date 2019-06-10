@@ -29,9 +29,12 @@ b = input("Give me another number: ")
 a_b_sum = a + b
 a_b_dif = a - b
 a_b_prod = a * b
+a_b_quot = a / b
 print("The sum of those two numbers is:")
 print(a_b_sum)
 print("The difference of those two numbers is:")
 print(a_b_dif)
 print("The product of those two numbers is:")
 print(a_b_prod)
+print("The quotient of those two numbers is:")
+print(a_b_quot)
