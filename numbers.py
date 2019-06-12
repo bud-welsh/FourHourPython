@@ -22,3 +22,8 @@ print(max(my_num, neg_num))
 print(min(my_num, neg_num))
 
 print(round(22.7)) # Rounding function
+
+from math import * # importing math functions
+
+print(floor(29.7))
+print(ceil(29.7))
