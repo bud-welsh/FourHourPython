@@ -15,3 +15,5 @@ print("My favorite number is " + str(my_num))
 neg_num = -666
 print(neg_num)
 print(abs(neg_num)) # Absolute value function
+
+print(pow(2, 63)) # Power function
