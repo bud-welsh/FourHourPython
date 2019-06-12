@@ -20,3 +20,5 @@ print(pow(2, 63)) # Power function
 
 print(max(my_num, neg_num))
 print(min(my_num, neg_num))
+
+print(round(22.7)) # Rounding function
