@@ -11,3 +11,7 @@ print(10 % 3) # Modulation should return the remainder of 1
 my_num = 421 # making a variable
 print(my_num)
 print("My favorite number is " + str(my_num))
+
+neg_num = -666
+print(neg_num)
+print(abs(neg_num)) # Absolute value function
