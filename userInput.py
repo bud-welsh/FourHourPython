@@ -2,4 +2,5 @@
 # Bud Welsh Python Practice
 
 name = raw_input("Enter your name: ")
-print("Hello " + name + "!")
+age = input("Enter your age: ")
+print("Hello " + name + "! You are " + str(age))
