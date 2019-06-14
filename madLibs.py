@@ -12,3 +12,10 @@ print("Roses are " + color)
 print(plural_noun + " are blue")
 print("This poem really " + verb)
 print("And so does " + celebrity)
+
+# No Zero Days
+name = raw_input("Enter a name: ")
+number = raw_input("Enter a number: ")
+
+print(name + " wants to get do his work " + number + " days in a row")
+print("But I want to have No Zero Days")
